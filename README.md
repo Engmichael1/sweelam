@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sweelam
 - 👀 I’m interested in Software Architecture Design and Distributed Systems
 - 🌱 I’m currently learning Cloud Agnostic Architecture 
-- 💞️ I’m looking to collaborate on Big Distributed systems
+- 💞️ I’m looking to collaborate in Big Distributed systems
 - 📫 How to reach me? via my email md.sweelam@gmail.com
 
 <!---
