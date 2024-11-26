@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sweelam
 - 👀 I’m interested in Software Architecture Design and Distributed Systems
 - 🌱 I’m currently learning Cloud Agnostic Architecture 
-- 💞️ I’m looking to collaborate in Big Distributed systems
-- 📫 How to reach me? via my email md.sweelam@gmail.com
+ <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 <!---
 sweelam/sweelam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
